@@ -1,0 +1,9 @@
+.close-icon {
+    position: absolute;
+    top: 6px;
+    left: 12px; 
+    cursor: pointer;
+    background-color: var(--close-modal);
+    border-radius: 25%;
+    padding: 2px 8px; 
+}

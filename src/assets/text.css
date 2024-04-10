@@ -1,0 +1,35 @@
+.t-center {
+    text-align: center;
+}
+
+.t-bold {
+    font-weight: bold;
+}
+
+.t-white {
+    color: var(--vt-c-white-soft);
+}
+
+.t-size-smaller {
+    font-size:smaller
+}
+
+.t-size-small {
+    font-size:small
+}
+
+.t-size-medium {
+    font-size: medium;
+}
+
+.t-size-large {
+    font-size: large;
+}
+
+.t-size-x-large {
+    font-size: x-large;
+}
+
+.t-size-xx-large {
+    font-size: xx-large;
+}

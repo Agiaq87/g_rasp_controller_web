@@ -1,0 +1,23 @@
+.padding-low {
+    padding: 0.5em;
+}
+
+.padding-std {
+    padding: 1em;
+}
+
+.padding-large {
+    padding: 1.5em;
+}
+
+.padding-x-large {
+    padding: 2em;
+}
+
+.padding-xx-large {
+    padding: 2.5em;
+}
+
+.padding-xxx-large {
+    padding: 3em;
+}
